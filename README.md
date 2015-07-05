@@ -16,5 +16,6 @@ g++ tftpclient.cpp -o r common.o
 ./t portno ---> for running on specific port
 ./r -r test.txt portno
 
-Group Mate:
+Group Members:
+Rishabh Bhatia (12BCE1029)
 Virat Sardana (12BCE1123)
